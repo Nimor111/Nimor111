@@ -1,4 +1,8 @@
-### Hi there 👋
+### Greetings 👋
+
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=Nimor111&show_icons=true&count_private=true&hide_border=true&theme=default&include_all_commits=true">
+</p>
 
 <!--
 **Nimor111/Nimor111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
