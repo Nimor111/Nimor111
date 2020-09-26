@@ -1,7 +1,9 @@
 ### Greetings 👋
 
 <p align="center">
+  <img height="180px" src ="https://github.com/kaeawc/scala-logo/blob/master/img/logo_256.png">
   <img src ="https://github-readme-stats.vercel.app/api?username=Nimor111&show_icons=true&count_private=true&hide_border=true&theme=default&include_all_commits=true">
+  <img height="180px" src ="https://github.com/NixOS/nixos-artwork/blob/master/logo/nix-snowflake.svg">
 </p>
 
 <!--
